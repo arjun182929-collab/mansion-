@@ -1,0 +1,6 @@
+{
+  "name": "Maison Elite",
+  "description": "Premium luxury architectural furniture manufacturer and custom contract solutions for global designers, B2B wholesale, hotel & residential developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
